@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nowcoder/Linux/ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/nowcoder/Linux/ChatServer/include -I/home/nowcoder/Linux/ChatServer/include/server -I/home/nowcoder/Linux/ChatServer/include/server/db -I/home/nowcoder/Linux/ChatServer/include/server/model -I\"/home/nowcoder/Linux/ChatServer/3rd part\"  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/nowcoder/Linux/ChatServer/src/server/chatserver.cpp",
+  "file": "/home/nowcoder/Linux/ChatServer/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/nowcoder/Linux/ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/nowcoder/Linux/ChatServer/include -I/home/nowcoder/Linux/ChatServer/include/server -I/home/nowcoder/Linux/ChatServer/include/server/db -I/home/nowcoder/Linux/ChatServer/include/server/model -I\"/home/nowcoder/Linux/ChatServer/3rd part\"  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/nowcoder/Linux/ChatServer/src/server/chatservice.cpp",
+  "file": "/home/nowcoder/Linux/ChatServer/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/nowcoder/Linux/ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/nowcoder/Linux/ChatServer/include -I/home/nowcoder/Linux/ChatServer/include/server -I/home/nowcoder/Linux/ChatServer/include/server/db -I/home/nowcoder/Linux/ChatServer/include/server/model -I\"/home/nowcoder/Linux/ChatServer/3rd part\"  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/nowcoder/Linux/ChatServer/src/server/main.cpp",
+  "file": "/home/nowcoder/Linux/ChatServer/src/server/main.cpp"
+},
+{
+  "directory": "/home/nowcoder/Linux/ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/nowcoder/Linux/ChatServer/include -I/home/nowcoder/Linux/ChatServer/include/server -I/home/nowcoder/Linux/ChatServer/include/server/db -I/home/nowcoder/Linux/ChatServer/include/server/model -I\"/home/nowcoder/Linux/ChatServer/3rd part\"  -g -g   -o CMakeFiles/ChatServer.dir/db/dp.cpp.o -c /home/nowcoder/Linux/ChatServer/src/server/db/dp.cpp",
+  "file": "/home/nowcoder/Linux/ChatServer/src/server/db/dp.cpp"
+},
+{
+  "directory": "/home/nowcoder/Linux/ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/nowcoder/Linux/ChatServer/include -I/home/nowcoder/Linux/ChatServer/include/server -I/home/nowcoder/Linux/ChatServer/include/server/db -I/home/nowcoder/Linux/ChatServer/include/server/model -I\"/home/nowcoder/Linux/ChatServer/3rd part\"  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/nowcoder/Linux/ChatServer/src/server/model/usermodel.cpp",
+  "file": "/home/nowcoder/Linux/ChatServer/src/server/model/usermodel.cpp"
+}
+]
