@@ -1,4 +1,4 @@
-# Install script for directory: /home/nowcoder/Linux/Git/Cluster-Chat-Server/src
+# Install script for directory: /home/nowcoder/Linux/ChatServer/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/cmake_install.cmake")
-  include("/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/client/cmake_install.cmake")
+  include("/home/nowcoder/Linux/ChatServer/build/src/server/cmake_install.cmake")
+  include("/home/nowcoder/Linux/ChatServer/build/src/client/cmake_install.cmake")
 
 endif()
 

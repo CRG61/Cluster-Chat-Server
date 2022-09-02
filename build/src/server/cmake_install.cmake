@@ -1,4 +1,4 @@
-# Install script for directory: /home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server
+# Install script for directory: /home/nowcoder/Linux/ChatServer/src/server
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

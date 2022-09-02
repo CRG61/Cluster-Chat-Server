@@ -6,5 +6,5 @@ CXX_FLAGS = -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/nowcoder/Linux/Git/Cluster-Chat-Server/include -I/home/nowcoder/Linux/Git/Cluster-Chat-Server/include/server -I/home/nowcoder/Linux/Git/Cluster-Chat-Server/include/server/db -I/home/nowcoder/Linux/Git/Cluster-Chat-Server/include/server/model -I/home/nowcoder/Linux/Git/Cluster-Chat-Server/include/redis -I"/home/nowcoder/Linux/Git/Cluster-Chat-Server/3rd part" 
+CXX_INCLUDES = -I/home/nowcoder/Linux/ChatServer/include -I/home/nowcoder/Linux/ChatServer/include/server -I/home/nowcoder/Linux/ChatServer/include/server/db -I/home/nowcoder/Linux/ChatServer/include/server/model -I/home/nowcoder/Linux/ChatServer/include/redis -I"/home/nowcoder/Linux/ChatServer/3rd part" 
 

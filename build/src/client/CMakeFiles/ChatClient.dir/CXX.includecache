@@ -354,9 +354,9 @@ string
 
 ../include/server/public.h
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/client/main.cpp
+/home/nowcoder/Linux/ChatServer/src/client/main.cpp
 json.hpp
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/client/json.hpp
+/home/nowcoder/Linux/ChatServer/src/client/json.hpp
 iostream
 -
 thread
@@ -388,9 +388,9 @@ semaphore.h
 atomic
 -
 group.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/client/group.h
+/home/nowcoder/Linux/ChatServer/src/client/group.h
 user.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/client/user.h
+/home/nowcoder/Linux/ChatServer/src/client/user.h
 public.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/client/public.h
+/home/nowcoder/Linux/ChatServer/src/client/public.h
 

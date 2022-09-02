@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/chatserver.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/chatservice.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/db/dp.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/db/dp.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/main.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/friendmodel.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/groupmodel.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/offlinemessagemodel.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/usermodel.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o"
-  "/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/redis/redis.cpp" "/home/nowcoder/Linux/Git/Cluster-Chat-Server/build/src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/chatserver.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/chatservice.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/db/dp.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/db/dp.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/main.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/model/friendmodel.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/model/groupmodel.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/model/offlinemessagemodel.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/model/usermodel.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o"
+  "/home/nowcoder/Linux/ChatServer/src/server/redis/redis.cpp" "/home/nowcoder/Linux/ChatServer/build/src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

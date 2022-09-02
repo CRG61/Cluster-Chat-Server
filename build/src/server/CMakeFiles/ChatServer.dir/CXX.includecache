@@ -432,23 +432,23 @@ user.h
 
 ../include/server/public.h
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/chatserver.cpp
+/home/nowcoder/Linux/ChatServer/src/server/chatserver.cpp
 chatserver.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/chatserver.h
+/home/nowcoder/Linux/ChatServer/src/server/chatserver.h
 chatservice.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/chatservice.h
+/home/nowcoder/Linux/ChatServer/src/server/chatservice.h
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/chatservice.cpp
+/home/nowcoder/Linux/ChatServer/src/server/chatservice.cpp
 chatservice.h
 -
 public.h
 -
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/db/dp.cpp
+/home/nowcoder/Linux/ChatServer/src/server/db/dp.cpp
 db.h
 -
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/main.cpp
+/home/nowcoder/Linux/ChatServer/src/server/main.cpp
 chatserver.h
 -
 chatservice.h
@@ -458,23 +458,23 @@ iostream
 signal.h
 -
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/friendmodel.cpp
+/home/nowcoder/Linux/ChatServer/src/server/model/friendmodel.cpp
 friendmodel.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/friendmodel.h
+/home/nowcoder/Linux/ChatServer/src/server/model/friendmodel.h
 db.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/db.h
+/home/nowcoder/Linux/ChatServer/src/server/model/db.h
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/groupmodel.cpp
+/home/nowcoder/Linux/ChatServer/src/server/model/groupmodel.cpp
 groupmodel.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/groupmodel.h
+/home/nowcoder/Linux/ChatServer/src/server/model/groupmodel.h
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/offlinemessagemodel.cpp
+/home/nowcoder/Linux/ChatServer/src/server/model/offlinemessagemodel.cpp
 offlinemessagemodel.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/offlinemessagemodel.h
+/home/nowcoder/Linux/ChatServer/src/server/model/offlinemessagemodel.h
 db.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/db.h
+/home/nowcoder/Linux/ChatServer/src/server/model/db.h
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/model/usermodel.cpp
+/home/nowcoder/Linux/ChatServer/src/server/model/usermodel.cpp
 usermodel.h
 -
 iostream
@@ -482,9 +482,9 @@ iostream
 db.h
 -
 
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/redis/redis.cpp
+/home/nowcoder/Linux/ChatServer/src/server/redis/redis.cpp
 redis.h
-/home/nowcoder/Linux/Git/Cluster-Chat-Server/src/server/redis/redis.h
+/home/nowcoder/Linux/ChatServer/src/server/redis/redis.h
 iostream
 -
 
